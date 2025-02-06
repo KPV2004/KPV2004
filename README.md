@@ -4,7 +4,7 @@ Hi 👋 My name is Pannet Vanicharkorl
 Computer Engineering
 --------------------
 
-### Skills
+# Skills
 
 
 <p align="left">
@@ -12,12 +12,12 @@ Computer Engineering
 </p>
 
 
-### Socials
+# Socials
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Zhilshi_KP)
 
 
 
-### Badges
+# Badges
 
 <b>My GitHub Stats</b>
 
